@@ -1,0 +1,22 @@
+INSERT INTO product (id, name, description, price, category)
+VALUES 
+  (1, 'T-Shirt', 'Cotton t-shirt with a classic design', 19.99, 'Apparel'),
+  (2, 'Hoodie', 'Warm and cozy hoodie with a front pocket', 39.99, 'Apparel'),
+  (3, 'Backpack', 'Spacious backpack with adjustable straps', 49.99, 'Accessories'),
+  (4, 'Water Bottle', 'Stainless steel water bottle with a leak-proof cap', 29.99, 'Accessories'),
+  (5, 'Sneakers', 'Comfortable sneakers with a rubber sole', 79.99, 'Footwear'),
+  (6, 'Leather Belt', 'Genuine leather belt with a classic buckle', 34.99, 'Accessories'),
+  (7, 'Jeans', 'Slim-fit jeans made from premium denim', 59.99, 'Apparel'),
+  (8, 'Wristwatch', 'Elegant wristwatch with a leather strap', 99.99, 'Accessories'),
+  (9, 'Sunglasses', 'UV-resistant sunglasses with polarized lenses', 44.99, 'Accessories'),
+  (10, 'Smartphone Case', 'Protective case for smartphones', 19.99, 'Accessories'),
+  (11, 'Crossbody Bag', 'Compact bag with an adjustable strap', 29.99, 'Accessories'),
+  (12, 'Dress Shoes', 'Formal shoes made from polished leather', 99.99, 'Footwear'),
+  (13, 'Laptop Sleeve', 'Padded sleeve for laptops up to 15 inches', 24.99, 'Accessories'),
+  (14, 'Denim Jacket', 'Classic denim jacket with metal buttons', 69.99, 'Apparel'),
+  (15, 'Leather Wallet', 'Slim leather wallet with multiple card slots', 29.99, 'Accessories'),
+  (16, 'Knit Hat', 'Warm knit hat with a pom-pom on top', 14.99, 'Apparel'),
+  (17, 'Sports Bra', 'Stretchy sports bra with moisture-wicking fabric', 24.99, 'Apparel'),
+  (18, 'Running Shoes', 'Lightweight running shoes with breathable mesh', 89.99, 'Footwear'),
+  (19, 'Travel Pillow', 'Soft and comfortable pillow for travel', 19.99, 'Accessories'),
+  (20, 'Wireless Earbuds', 'True wireless earbuds with noise-cancelling feature', 79.99, 'Accessories');
