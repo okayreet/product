@@ -3,7 +3,7 @@ server:
 spring:
   application:
     name: product
-  datasource:product
+  datasource:
     url: jdbc:postgresql://localhost:5432/okayreet
     username: "okayreet"
     password: "password"
