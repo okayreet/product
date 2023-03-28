@@ -10,7 +10,7 @@ import lombok.Data;
 
 @Entity
 @Data
-@Table(name = "orders")
+@Table(name = "products")
 public class Product {
     @Id
     @SequenceGenerator(name = "product_id_sequence", sequenceName = "product_id_sequence")
