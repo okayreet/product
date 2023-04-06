@@ -1,4 +1,4 @@
-INSERT INTO product (id, name, description, price, category)
+INSERT INTO products (id, name, description, price, category)
 VALUES 
   (1, 'T-Shirt', 'Cotton t-shirt with a classic design', 19.99, 'Apparel'),
   (2, 'Hoodie', 'Warm and cozy hoodie with a front pocket', 39.99, 'Apparel'),
