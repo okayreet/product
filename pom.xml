@@ -83,7 +83,7 @@
 				<configuration>
 					<to>
 						<image>
-							registry.hub.docker.com/darkerror/${project.artifactId}:${project.version}</image>
+							registry.hub.docker.com/darkerror/${project.artifactId}</image>
 					</to>
 				</configuration>
 			</plugin>
